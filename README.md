@@ -23,14 +23,3 @@ Hi, I'm an Azure solution developer and DevOps engineer. 😘
 </p>
 
 [![trophy](https://github-profile-trophy-sable.vercel.app/?username=sdlc-dev-002&column=8)](https://github-profile-trophy-sable.vercel.app/?username=sdlc-dev-002&column=8)
-
-<details>
-  <summary>:zap: Stats Detail</summary>
-
-[![metricsbase](/output/metrics.base.svg)](/output/metrics.base.svg)
-
-[![details](/output/details.svg)](/output/details.svg)
-
-</details>
-
-
