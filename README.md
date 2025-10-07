@@ -1,16 +1,36 @@
-## Hi there 👋
+# 🌴 About sdlc-dev-002
+Hi, I'm an Azure solution developer and DevOps engineer. 😘
 
-<!--
-**sdlc-dev-002/sdlc-dev-002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💘 My skills
+<img alt="my skills" src="https://skillicons.dev/icons?theme=light&perline=11&i=azure,cs,dotnet,visualstudio,vscode,windows,github,git,githubactions,docker,kubernetes" />
 
-Here are some ideas to get you started:
+## 😍 Stats
+<p align="left">
+  <a href="https://github.com/sdlc-dev-002/sdlc-dev-002/">
+    <img src="https://komarev.com/ghpvc/?username=sdlc-dev-002" alt="sdlc-dev-002" />
+  </a>
+  <a href="https://zenn.dev/yutakaosada/">
+    <img src="https://badgen.org/img/zenn/yutakaosada/followers?style=flat" alt="sdlc-dev-002" />
+  </a>
+  <a href="https://github.com/sdlc-dev-002">
+    <img height="20" src="https://img.shields.io/github/followers/sdlc-dev-002?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left"> 
+  <img alt="github stats" height="150px" src="https://github-readme-stats-ruby-mu.vercel.app/api?username=sdlc-dev-002&show_icons=true" />
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats-ruby-mu.vercel.app/api/top-langs/?username=sdlc-dev-002&layout=compact&show_icons=true" />
+</p>
+
+[![trophy](https://github-profile-trophy-sable.vercel.app/?username=sdlc-dev-002&column=8)](https://github-profile-trophy-sable.vercel.app/?username=sdlc-dev-002&column=8)
+
+<details>
+  <summary>:zap: Stats Detail</summary>
+
+[![metricsbase](/output/metrics.base.svg)](/output/metrics.base.svg)
+
+[![details](/output/details.svg)](/output/details.svg)
+
+</details>
+
+
